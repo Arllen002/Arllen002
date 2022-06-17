@@ -1,4 +1,4 @@
-## Olá! EU sou o Arllen002
+## Olá! Sejam bem vindos!
 
 <div align="center">
   <a href="https://github.com/Arllen002">
@@ -12,7 +12,7 @@
   <img align="center" alt="Arllen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Arllen-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Arllen-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Arllen-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/939882289352040488/939882804492263454/963144698745192498">
+  <img align="right" alt="Arllen-pic" height="150" style="border-radius:50px;" src="https://gifimage.net/wp-content/uploads/2017/10/disappointed-anime-gif-13.gif">
 </div>
     
 
